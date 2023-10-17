@@ -1,0 +1,9 @@
+.courses{
+    background-color: azure;
+    text-align: center;
+}
+.course{
+    display:inline-block;
+    width: 20%;
+    background: red;
+}
